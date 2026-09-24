@@ -146,7 +146,7 @@ This bundle establishes the governance committee structure required to coordinat
 - RACI Implementation Guide
  
 ### Purpose
- 
+
 This evidence bundle applies the RACI model to critical governance activities, ensuring accountability, ownership, consultation, and communication responsibilities are clearly defined across the organisation.
  
 ---
@@ -174,7 +174,7 @@ This bundle provides a structured process for escalating cyber-risk events from 
 - Residual Risk Considerations
  
 ### Purpose
- 
+
 This evidence bundle identifies segregation-of-duties and accountability weaknesses within the current governance structure and recommends risk-reduction controls to improve governance maturity.
  
 ---
