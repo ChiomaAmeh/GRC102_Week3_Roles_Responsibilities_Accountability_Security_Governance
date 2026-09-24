@@ -57,7 +57,7 @@ The proposed governance framework introduces:
  
 ## Repository Structure
  
-
+```text
 GRC102_Week3_Roles_Responsibilities_Accountability
 │
 ├── README.md
