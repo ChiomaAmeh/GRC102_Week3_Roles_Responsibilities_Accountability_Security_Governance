@@ -3,9 +3,9 @@
 ## GRC102 Week 3 Practical Lab
  
 ### Overview
- 
+
 This repository contains the completed Week 3 practical laboratory for GRC102.
- 
+
 The assessment scenario is based on TechGlobal, a rapidly growing technology organisation with approximately 2,500 employees operating across five global offices. As Lead Security Governance Consultant, the objective was to transform TechGlobal's informal and IT-centric security governance model into a mature, business-aligned governance framework.
  
 The project establishes:
@@ -216,7 +216,7 @@ This ensures significant risks receive appropriate visibility and oversight.
 ---
  
 # Conclusion
- 
+
 This repository presents a complete security governance transformation programme for TechGlobal. The proposed operating model strengthens governance maturity, improves accountability, formalises decision authority and enables executive and Board-level oversight of cybersecurity risk.
  
 ---
