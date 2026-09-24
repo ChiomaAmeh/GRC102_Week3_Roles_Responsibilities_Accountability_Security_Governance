@@ -94,7 +94,7 @@ GRC102_Week3_Roles_Responsibilities_Accountability
 - Consultant Justification
  
 ### Purpose
- 
+
 This evidence bundle analyses the weaknesses in the current governance model and proposes a scalable governance structure that supports organisational growth, accountability, and risk oversight.
  
 ---
@@ -109,7 +109,7 @@ This evidence bundle analyses the weaknesses in the current governance model and
  
 ### Purpose
  
-This bundle defines governance responsibilities and decision authority for key stakeholders including:
+This bundle defines governance responsibilities and decision authority for key stakeholders, including:
  
 - Board of Directors
 - Chief Executive Officer (CEO)
@@ -133,7 +133,7 @@ This bundle defines governance responsibilities and decision authority for key s
 - Twelve-Month Governance Calendar
  
 ### Purpose
- 
+
 This bundle establishes the governance committee structure required to coordinate cybersecurity decision-making, risk management, compliance monitoring, and executive reporting.
  
 ---
@@ -159,7 +159,7 @@ This evidence bundle applies the RACI model to critical governance activities, e
 - Escalation Threshold Framework
  
 ### Purpose
- 
+
 This bundle provides a structured process for escalating cyber-risk events from operational management through executive leadership and ultimately to the Board when required.
  
 ---
@@ -212,7 +212,7 @@ Implementation of the proposed governance framework would provide:
 ---
  
 ## Conclusion
- 
+
 This project transforms TechGlobal's informal and IT-centric cybersecurity governance model into a mature, business-aligned governance framework. The proposed structure establishes accountability, decision authority, cross-functional collaboration, and risk oversight mechanisms necessary to support the organisation's continued growth while effectively managing cybersecurity risk.
  
 ---
