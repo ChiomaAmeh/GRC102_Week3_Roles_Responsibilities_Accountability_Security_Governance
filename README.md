@@ -216,11 +216,8 @@ Implementation of the proposed governance framework would provide:
 This project transforms TechGlobal's informal and IT-centric cybersecurity governance model into a mature, business-aligned governance framework. The proposed structure establishes accountability, decision authority, cross-functional collaboration, and risk oversight mechanisms necessary to support the organisation's continued growth while effectively managing cybersecurity risk.
  
 ---
- 
+
 **Author:** Chioma Ameh
-
 **Course:** GRC102 - Security Governance, Roles, Responsibilities and Accountability
-
 **Project:** Week 3 Practical Laboratory Assessment
-
 **Repository Type:** Governance Evidence Repository
