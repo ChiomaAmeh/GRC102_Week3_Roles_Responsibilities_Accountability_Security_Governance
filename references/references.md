@@ -1,0 +1,17 @@
+# References
+ 
+ISACA. Information Security Governance: Guidance for Boards and Executive Management.
+ 
+NIST Cybersecurity Framework (CSF).
+ 
+NIST SP 800-53 Security and Privacy Controls.
+ 
+ISO/IEC 27001:2022 Information Security Management Systems.
+ 
+ISO/IEC 27014 Governance of Information Security.
+ 
+COSO Enterprise Risk Management Framework.
+ 
+COBIT 2019 Governance and Management Objectives.
+ 
+ISC2 Security Governance Principles and Practices.
