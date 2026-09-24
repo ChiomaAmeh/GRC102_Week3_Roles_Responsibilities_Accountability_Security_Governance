@@ -1,7 +1,7 @@
 # GRC102 Week 3: Roles, Responsibilities and Accountability in Security Governance
  
 ## Project Overview
- 
+
 This repository contains the practical laboratory deliverables for **GRC102 Week 3 - Roles, Responsibilities and Accountability in Security Governance**.
  
 The scenario is based on **TechGlobal**, a rapidly growing technology organisation with approximately 2,500 employees operating across five global offices. The organisation's cybersecurity governance model has not matured at the same pace as business growth, resulting in security decision-making being concentrated within the IT function, inconsistent risk management practices, unclear accountability, and limited executive and Board-level oversight.
