@@ -218,6 +218,9 @@ This project transforms TechGlobal's informal and IT-centric cybersecurity gover
 ---
  
 **Author:** Chioma Ameh
+
 **Course:** GRC102 - Security Governance, Roles, Responsibilities and Accountability
+
 **Project:** Week 3 Practical Laboratory Assessment
+
 **Repository Type:** Governance Evidence Repository
