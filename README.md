@@ -1,115 +1,183 @@
-# GRC102 Week 3: Roles, Responsibilities and Accountability in Security Governance
+# Roles, Responsibilities and Accountability in Security Governance
  
-## Project Overview
-
-
-This repository contains the practical laboratory deliverables for **GRC102 Week 3 - Roles, Responsibilities and Accountability in Security Governance**.
+## GRC102 Week 3 Practical Lab
  
-The scenario is based on **TechGlobal**, a rapidly growing technology organisation with approximately 2,500 employees operating across five global offices. The organisation's cybersecurity governance model has not matured at the same pace as business growth, resulting in security decision-making being concentrated within the IT function, inconsistent risk management practices, unclear accountability, and limited executive and Board-level oversight.
+### Overview
  
-As the appointed Lead Security Governance Consultant, I led this engagement to redesign TechGlobal's security governance operating model and establish a structured, scalable, business-aligned governance framework.
+This repository contains the completed Week 3 practical laboratory for GRC102.
  
----
+The assessment scenario is based on TechGlobal, a rapidly growing technology organisation with approximately 2,500 employees operating across five global offices. As Lead Security Governance Consultant, the objective was to transform TechGlobal's informal and IT-centric security governance model into a mature, business-aligned governance framework.
  
-## Laboratory Objectives
+The project establishes:
  
-The objectives of this project were to:
- 
-- Analyse weaknesses created by informal and IT-centric security governance.
-- Design a scalable governance structure connecting Board oversight, executive leadership, security management, and business units.
-- Define roles, responsibilities, and decision authority across key stakeholders.
-- Establish a cross-functional governance committee structure.
-- Develop a RACI accountability matrix covering critical governance activities.
-- Design a major cyber-risk escalation workflow.
-- Identify segregation-of-duties and accountability weaknesses.
-- Recommend corrective governance controls and oversight mechanisms.
+- Governance architecture
+- Security governance organisational structure
+- Roles and responsibilities
+- Governance committee ecosystem
+- RACI accountability matrix
+- Cyber-risk escalation workflow
+- Segregation of duties controls
  
 ---
  
-## Governance Challenges Identified
+## Scenario Summary
  
-The following governance weaknesses were identified within the existing operating model:
+TechGlobal currently faces several governance challenges:
  
-- Security decision-making concentrated within the IT Director role.
-- Absence of formal cybersecurity governance committees.
-- Inconsistent security decisions across business units.
-- Limited visibility of cyber risk at the executive and Board levels.
-- Undefined ownership of security-related risk.
-- Lack of formalised escalation pathways for major cyber incidents.
-- Weak segregation of duties and accountability controls.
+- Security decision-making concentrated within IT
+- No formal governance committees
+- Limited Board visibility of cyber risk
+- Inconsistent business-unit security practices
+- Undefined accountability and ownership
+- Lack of formal escalation processes
  
----
- 
-## Proposed Governance Solution
- 
-The proposed governance framework introduces:
- 
-- Board-level cybersecurity oversight.
-- Executive accountability for cyber-risk management.
-- A dedicated Security Governance Committee.
-- Formal risk ownership and escalation procedures.
-- Clearly defined cross-functional responsibilities.
-- Improved transparency and reporting.
-- Enterprise-wide governance consistency.
-- Enhanced segregation of duties and accountability.
+This engagement proposes a scalable governance framework that ensures accountability, transparency, effective oversight and enterprise-wide security decision-making.
  
 ---
  
-## Repository Structure
+## Objectives
+ 
+The laboratory demonstrates the ability to:
+ 
+- Analyse governance weaknesses
+- Design a security governance structure
+- Define executive and operational responsibilities
+- Establish governance committees
+- Apply RACI accountability models
+- Develop cyber-risk escalation processes
+- Identify segregation of duties conflicts
+- Recommend governance improvements
+ 
+---
+ 
+# Repository Contents
+ 
+## Consultant Report
+ 
+Location:
  
 ```text
-GRC102_Week3_Roles_Responsibilities_Accountability
-│
-├── README.md
-│
-├── docs/
-│ └── TechGlobal_Security_Governance_Report.docx
-│
-├── evidence/
-│ ├── Evidence_Bundle_1_Governance_Architecture/
-│ ├── Evidence_Bundle_2_Roles_and_Responsibilities/
-│ ├── Evidence_Bundle_3_Governance_Committee_Ecosystem/
-│ ├── Evidence_Bundle_4_RACI_Accountability/
-│ ├── Evidence_Bundle_5_Cyber_Risk_Escalation/
-│ └── Evidence_Bundle_6_Segregation_of_Duties/
-│
-├── diagrams/
-│ ├── Governance_Organisation_Chart.png
-│ ├── Committee_Interaction_Diagram.png
-│ └── Cyber_Risk_Escalation_Workflow.png
-│
-└── references/
-└── references.md
+report/Consultant_Report.md
 ```
  
----
- 
-# Evidence Bundle 1: Governance Architecture
- 
-### Contents
- 
-- Governance Gap Assessment
-- Stakeholder Map
-- Security Governance Organisation Structure
-- Consultant Justification
- 
-### Purpose
-
-This evidence bundle analyses the weaknesses in the current governance model and proposes a scalable governance structure that supports organisational growth, accountability, and risk oversight.
+Contains the complete governance transformation assessment and recommendations.
  
 ---
  
-# Evidence Bundle 2: Roles and Responsibilities
+## Evidence Bundle 1 - Governance Architecture
  
-### Contents
+Location:
  
-- Governance Responsibility Matrix
-- Stakeholder Role Profiles
-- Conflict Resolution Analysis
+```text
+evidence/Evidence_Bundle_1_Governance_Architecture.md
+```
  
-### Purpose
+Contains:
  
-This bundle defines governance responsibilities and decision authority for key stakeholders, including:
+- Governance gap assessment
+- Stakeholder map
+- Security governance organisation structure
+- Governance justification
+ 
+---
+ 
+## Evidence Bundle 2 - Roles and Responsibilities
+ 
+Location:
+ 
+```text
+evidence/Evidence_Bundle_2_Roles_and_Responsibilities.md
+```
+ 
+Contains:
+ 
+- Cross-functional responsibility matrix
+- Role profiles
+- Conflict resolution analysis
+ 
+---
+ 
+## Evidence Bundle 3 - Governance Committee Ecosystem
+ 
+Location:
+ 
+```text
+evidence/Evidence_Bundle_3_Governance_Committee_Ecosystem.md
+```
+ 
+Contains:
+ 
+- Committee interaction model
+- Terms of reference
+- Meeting agenda
+- Decision log
+- Governance calendar
+ 
+---
+ 
+## Evidence Bundle 4 - RACI Accountability Matrix
+ 
+Location:
+ 
+```text
+evidence/Evidence_Bundle_4_RACI_Accountability_Matrix.md
+```
+ 
+Contains:
+ 
+- Governance RACI matrix
+- Accountability definitions
+- Implementation guidance
+ 
+---
+ 
+## Evidence Bundle 5 - Cyber-Risk Escalation
+ 
+Location:
+ 
+```text
+evidence/Evidence_Bundle_5_Cyber_Risk_Escalation.md
+```
+ 
+Contains:
+ 
+- Major cyber-risk escalation workflow
+- Escalation thresholds
+- Governance reporting structure
+ 
+---
+ 
+## Evidence Bundle 6 - Segregation of Duties and Accountability
+ 
+Location:
+ 
+```text
+evidence/Evidence_Bundle_6_Segregation_of_Duties_Accountability.md
+```
+ 
+Contains:
+ 
+- Weakness register
+- Risk analysis
+- Corrective controls
+- Residual risk considerations
+ 
+---
+ 
+# Deliverables Mapping
+ 
+| Assessment Requirement | Evidence Location |
+|-------------------------|-------------------|
+| Governance Architecture | Bundle 1 |
+| Roles and Responsibilities | Bundle 2 |
+| Governance Committees | Bundle 3 |
+| RACI Matrix | Bundle 4 |
+| Cyber-Risk Escalation | Bundle 5 |
+| Segregation of Duties | Bundle 6 |
+ 
+---
+ 
+# Key Governance Roles
  
 - Board of Directors
 - Chief Executive Officer (CEO)
@@ -119,105 +187,50 @@ This bundle defines governance responsibilities and decision authority for key s
 - Finance Director
 - Human Resources Director
 - IT Director
+- Business Unit Leaders
  
 ---
  
-# Evidence Bundle 3: Governance Committee Ecosystem
+# Governance Committees
  
-### Contents
+The proposed governance model introduces:
  
-- Committee Interaction Diagram
-- Security Governance Committee Terms of Reference
-- Sample Meeting Agenda
-- Sample Decision Log
-- Twelve-Month Governance Calendar
+1. Board Risk and Audit Committee
+2. Executive Risk Committee
+3. Security Governance Committee
  
-### Purpose
-
-This bundle establishes the governance committee structure required to coordinate cybersecurity decision-making, risk management, compliance monitoring, and executive reporting.
+These committees provide strategic oversight, risk governance and operational coordination.
  
 ---
  
-# Evidence Bundle 4: RACI Accountability Matrix
+# Risk Management Approach
  
-### Contents
+The framework implements a formal cyber-risk escalation process supporting:
  
-- Enterprise Security Governance RACI Matrix
-- RACI Implementation Guide
+- Operational Escalation
+- Executive Escalation
+- Board-Level Escalation
  
-### Purpose
-
-This evidence bundle applies the RACI model to critical governance activities, ensuring accountability, ownership, consultation, and communication responsibilities are clearly defined across the organisation.
- 
----
- 
-# Evidence Bundle 5: Cyber-Risk Escalation
- 
-### Contents
- 
-- Major Cyber-Risk Escalation Workflow
-- Escalation Threshold Framework
- 
-### Purpose
-
-This bundle provides a structured process for escalating cyber-risk events from operational management through executive leadership and ultimately to the Board when required.
+This ensures significant risks receive appropriate visibility and oversight.
  
 ---
  
-# Evidence Bundle 6: Segregation of Duties and Accountability
+# Conclusion
  
-### Contents
- 
-- Governance Weakness Register
-- Conflict Analysis
-- Recommended Corrective Controls
-- Residual Risk Considerations
- 
-### Purpose
-
-This evidence bundle identifies segregation-of-duties and accountability weaknesses within the current governance structure and recommends risk-reduction controls to improve governance maturity.
+This repository presents a complete security governance transformation programme for TechGlobal. The proposed operating model strengthens governance maturity, improves accountability, formalises decision authority and enables executive and Board-level oversight of cybersecurity risk.
  
 ---
  
-## Key Deliverables
+## Author
  
-The following governance artefacts were produced:
+Chioma Ameh
  
-- Governance Gap Assessment
-- Stakeholder Mapping
-- Governance Organisation Structure
-- Governance Responsibility Matrix
-- Governance Committee Framework
-- Committee Terms of Reference
-- Decision Log
-- Governance Calendar
-- RACI Accountability Matrix
-- Cyber-Risk Escalation Workflow
-- Escalation Threshold Framework
-- Segregation-of-Duties Weakness Register
+ICDFA Trainee | Cohort 11
+ 
+GRC Engineering (CGRCE)
  
 ---
  
-## Expected Business Outcomes
+## Module
  
-Implementation of the proposed governance framework would provide:
- 
-- Improved Board and executive visibility into cyber risk.
-- Clear accountability and ownership of security decisions.
-- Consistent governance across business units.
-- Improved regulatory and compliance readiness.
-- Enhanced risk management and escalation processes.
-- Stronger organisational resilience and governance maturity.
- 
----
- 
-## Conclusion
-
-This project transforms TechGlobal's informal and IT-centric cybersecurity governance model into a mature, business-aligned governance framework. The proposed structure establishes accountability, decision authority, cross-functional collaboration, and risk oversight mechanisms necessary to support the organisation's continued growth while effectively managing cybersecurity risk.
- 
----
-
-**Author:** Chioma Ameh
-**Course:** GRC102 - Security Governance, Roles, Responsibilities and Accountability
-**Project:** Week 3 Practical Laboratory Assessment
-**Repository Type:** Governance Evidence Repository
+GRC102 – Roles, Responsibilities and Accountability in Security Governance
