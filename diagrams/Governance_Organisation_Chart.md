@@ -1,7 +1,5 @@
-
 # Governance Organisation Chart
- 
-```text
+
 Board of Directors
 │
 ▼
