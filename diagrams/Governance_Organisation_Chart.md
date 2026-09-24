@@ -1,22 +1,29 @@
-# Governance Organisation Chart
+# Government Organisation Chart
 
+```text
 Board of Directors
-│
-▼
-Board Risk & Audit Committee
-│
-▼
+         |
+         ▼
+Board Risk and Audit Committee
+         |
+         ▼
 Chief Executive Officer
-│
-┌──────┼──────┬──────┬──────┐
-▼ ▼ ▼ ▼ ▼
-CISO CRO CFO Legal HR
-│
-▼
-Security Governance Committee
-│
-├── IT Operations
-├── Security Operations
-├── Business Units
-└── Project Teams
+         |
+  ┌──────┼──────┬──────┬──────┐
+  ▼      ▼      ▼      ▼      ▼
+ CISO   CRO    CFO   LEGAL    HR
+  |
+  ▼
+  │
+  ├── IT Operations
+  ├── Security Operations
+  ├── Business Units
+  └── Project Teams
 ```
+
+
+
+
+
+
+
