@@ -36,6 +36,17 @@ Contains supporting standards and references.
 
 ---
 
+## Governance Visualisations
+The repository contains the following governance artefacts:
+- Security Governance Organisation Chart
+- Security Governance Committee Interaction Diagram
+- Major Cyber-Risk Escalation Workflow
+ 
+These diagrams support the governance architecture, committee ecosystem, and cyber-risk escalation evidence bundles.
+Show more lines
+
+---
+
 ## Assessment Deliverables
 | Evidence Bundle | Status |
 |----------------|---------|
