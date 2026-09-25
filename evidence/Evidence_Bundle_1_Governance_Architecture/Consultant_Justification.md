@@ -1,12 +1,11 @@
 # Consultant Justification
  
 ## Executive Summary
- 
+
 TechGlobal's current cybersecurity governance model is highly dependent on the IT Director and lacks formal governance structures. This creates accountability gaps, inconsistent decision-making, and limited visibility of cyber risk across executive leadership and the Board.
 
+The proposed governance framework addresses these weaknesses by introducing Board oversight, executive accountability, formal governance committees, and enterprise-wide risk ownership
  
-The proposed governance framework addresses these weaknesses by introducing Board oversight, executive accountability, formal governance committees, and enterprise-wide risk ownership.
- 
 ---
  
 ## Why Board Oversight Is Required
