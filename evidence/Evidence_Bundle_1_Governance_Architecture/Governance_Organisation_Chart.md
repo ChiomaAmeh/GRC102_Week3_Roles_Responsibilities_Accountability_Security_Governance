@@ -1,7 +1,6 @@
 # Governance Organisation Chart
  
-## Proposed Security Governance Structure
- 
+## Proposed Security Governance Structure 
 ```text
 Board of Directors
         │
