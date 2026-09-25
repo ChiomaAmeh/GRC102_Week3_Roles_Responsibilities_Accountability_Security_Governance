@@ -30,18 +30,15 @@ Security Governance Committee
 ```
  
 ## Purpose
- 
 The proposed governance structure establishes clear accountability, decision authority, oversight responsibilities, and reporting lines throughout the organisation.
  
 ### Strategic Governance
- 
 - Board of Directors
 - Board Risk & Audit Committee
  
 Responsible for cyber-risk oversight, governance monitoring, and approval of risk appetite.
  
 ### Executive Governance
- 
 - CEO
 - CISO
 - CRO
@@ -50,7 +47,6 @@ Responsible for cyber-risk oversight, governance monitoring, and approval of ris
 Responsible for strategic direction, risk management, funding decisions, and governance execution.
  
 ### Operational Governance
- 
 - IT
 - HR
 - Legal
@@ -61,7 +57,6 @@ Responsible for strategic direction, risk management, funding decisions, and gov
 Responsible for implementing approved governance decisions and managing operational security risks.
  
 ## Benefits
- 
 - Improved accountability
 - Clear reporting lines
 - Better cyber-risk visibility
