@@ -1,31 +1,41 @@
 # Governance Organisation Chart
+## Security Governance Organisation Chart
  
-## Proposed Security Governance Structure 
 ```text
-Board of Directors
-        │
-        ▼
-Board Risk & Audit Committee
-        │
-        ▼
-Chief Executive Officer (CEO)
-        │
-────────────────────────
-│          │           │
-▼          ▼           ▼
-CISO      CRO         CFO
-│          │
-│        Legal
-│
-▼
-Security Governance Committee
-│
-├── IT Director
-├── HR Director
-├── Legal Representative
-├── Finance Representative
-├── Business Unit Leaders
-└── Security Operations Team
+     BOARD OF DIRECTORS
+(Board Risk & Audit Committee)
+            │
+            ▼
+CHIEF EXECUTIVE OFFICER (CEO)
+            │
+            ▼
+EXECUTIVE SECURITY COUNCIL
+            │
+ 
+┌──────────┬──────────┬──────────┬──────────┬──────────┬──────────┬──────────┐
+▼          ▼          ▼          ▼          ▼          ▼          ▼
+CISO      CRO       LEGAL      FINANCE      HR        IT        BUSINESS
+(Security (Risk)   Compliance  Resources   UNIT      LEADERS
+Governance) 
+ 
+                     │
+                     ▼
+    SECURITY GOVERNANCE/STEERING COMMITTEE
+              (Chair: CISO)
+                     │
+ 
+┌────────────────┬────────────────┬────────────────┬────────────────┐
+▼                ▼                ▼                ▼
+INCIDENT    CLOUD SECURITY    THIRD-PARTY      BUSINESS UNIT
+RESPONSE    WORKING GROUP     RISK GROUP       SECURITY FORUM
+WORKING GROUP                                  (BISOs/Champions)
+ 
+                     │
+                     ▼
+           OPERATIONAL SECURITY TEAMS
+        (SOC, Analysts, Engineers, Administrators)
+
+
 ```
  
 ## Purpose
