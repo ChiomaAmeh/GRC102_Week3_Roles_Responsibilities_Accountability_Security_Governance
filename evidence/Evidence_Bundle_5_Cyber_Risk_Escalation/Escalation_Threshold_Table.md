@@ -12,7 +12,46 @@ This framework defines the conditions under which cybersecurity risks and incide
 | Board-Level | Material business impact, major breach, legal exposure, reputational damage | Board Risk and Audit Committee |
  
 ---
+
+# Escalation Levels
+## Level 1 - Operational
+Owner:
+IT/Security Operations
+Activities:
+- Contain the issue.
+- Investigate cause.
+- Implement remediation.
+- Record actions.
+Target Response:
+Immediate to less than 4 hours.
  
+---
+ 
+## Level 2 - Executive
+Owner:
+CISO and Executive Security Council
+Activities:
+- Assess business impact.
+- Allocate response resources.
+- Review external communications.
+- Determine escalation requirements.
+Target Response:
+Less than 24 hours.
+ 
+---
+ 
+## Level 3 - Material/Board
+Owner:
+CEO and Board Risk & Audit Committee
+Activities:
+- Review disclosure obligations.
+- Assess Board-level risk appetite impact.
+- Direct crisis response activities.
+- Approve major resource commitments.
+Target Response:
+48 to 72 hours.
+---
+
 ## Operational Escalation
 ### Example Scenarios
 - Localized phishing incident
