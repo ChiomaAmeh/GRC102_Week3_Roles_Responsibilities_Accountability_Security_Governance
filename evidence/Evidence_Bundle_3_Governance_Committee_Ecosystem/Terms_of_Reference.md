@@ -36,7 +36,7 @@ Chief Information Security Officer (CISO)
 ## Meeting Frequency
 Monthly
 Additional meetings may be called following major cyber incidents or regulatory developments.
- 
+
 ---
  
 ## Decision-Making Authority
@@ -50,6 +50,20 @@ The committee may:
  
 ## Reporting
 The committee reports to the Executive Risk Committee and provides quarterly governance updates.
+
+---
+
+## Reporting Structure
+Security Governance / Steering Committee
+Reports To: Executive Security Council
+
+ 
+Executive Security Council
+Reports To: Board Risk & Audit Committee
+
+ 
+Board Risk & Audit Committee
+Reports To: Board of Directors
 
 ---
  
