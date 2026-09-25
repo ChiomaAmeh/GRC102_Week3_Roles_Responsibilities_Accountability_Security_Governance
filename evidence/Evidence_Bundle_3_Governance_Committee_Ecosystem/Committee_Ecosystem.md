@@ -1,80 +1,79 @@
 # Governance Committee Ecosystem
 ## Purpose
 This document defines the governance committee structure proposed for TechGlobal.
+
 The committee ecosystem provides strategic oversight, risk governance, policy direction, and security decision-making across all organisational levels.
 
 ---
  
 # Committee Structure
+
 ```text
-Board of Directors
-        │
-        ▼
-Board Risk & Audit Committee
-        │
-        ▼
-Executive Risk Committee
-        │
-        ▼
-Security Governance Committee
-        │
- ┌──────┼──────┐
- ▼      ▼      ▼
-HR IT Business Units
+Board/Board Risk & Audit Committee
+               │
+               ▼
+Executive Security Council
+               │
+               ▼
+Security Governance / Steering Committee
+               │
+┌──────────────┼──────────────┬──────────────┐
+▼              ▼              ▼              ▼
+Incident    Cloud        Third-Party     Business Unit
+Response    Security     Risk            Security Forum
+Working     Working      Working         (BISOs)
+Group       Group        Group
+ 
+               │
+               ▼
+Business Units and Operational Teams
 ```
  
 ---
  
-# Committee Relationships
+# Committee Responsibilities
 ## Board Risk and Audit Committee
+Meeting Frequency: Quarterly
 Responsibilities:
 - Board-level cyber-risk oversight.
-- Risk appetite review.
-- Material cyber-risk review.
-- Governance performance monitoring.
- 
-Reports To:
-- Board of Directors
+- Review material cyber risks.
+- Monitor risk appetite.
+- Approve strategic governance direction.
  
 ---
  
-## Executive Risk Committee
+## Executive Security Council
+Chair: CEO
+Meeting Frequency: Quarterly
 Responsibilities:
- 
-- Enterprise risk oversight.
-- Executive decision-making.
-- Strategic governance review.
-- Resource allocation guidance.
- 
-Reports To:
-- Board Risk and Audit Committee
+- Strategic risk governance.
+- Security investment decisions.
+- Risk appetite management.
+- Escalation review.
  
 ---
  
-## Security Governance Committee
+## Security Governance / Steering Committee
+Chair: CISO
+Meeting Frequency: Monthly
 Responsibilities:
-- Security policy review.
-- Risk monitoring.
-- Incident oversight.
-- Governance coordination.
+- Policy review.
+- Governance oversight.
+- KPI monitoring.
+- Risk-treatment coordination.
 - Escalation recommendations.
  
-Reports To:
-- Executive Risk Committee
- 
 ---
  
-# Governance Benefits
-The committee ecosystem promotes:
-- Accountability
-- Consistency
-- Transparency
-- Cross-functional collaboration
-- Executive visibility
-- Board oversight
-- Effective escalation
+## Working Groups
+### Incident Response Working Group
+Meeting Frequency: Weekly or On-Demand
  
----
+### Cloud Security Working Group
+Meeting Frequency: Bi-Weekly
  
-# Conclusion
-The proposed committee ecosystem creates a structured governance model that aligns cybersecurity governance activities with executive and Board accountability requirements.
+### Third-Party Risk Working Group
+Meeting Frequency: Monthly
+ 
+### Business Unit Security Forum
+Meeting Frequency: Monthly
