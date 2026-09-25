@@ -1,27 +1,22 @@
 # Consultant Report
- 
 ## Security Governance Transformation for TechGlobal
- 
 Prepared By:
  
-Chioma Ameh
+Chioma Ameh -
  
 Lead Security Governance Consultant
- 
+
 ---
  
 ## Executive Summary
- 
-TechGlobal has experienced significant organisational growth without corresponding development in security governance. Security decisions remain highly centralised within the IT Director function, resulting in inconsistent risk management, limited accountability and insufficient executive oversight.
+TechGlobal has experienced significant organisational growth without corresponding development in security governance. Security decisions remain highly centralised within the IT Director function, resulting in inconsistent risk management, limited accountability, and insufficient executive oversight.
  
 This report provides a governance transformation roadmap designed to align security governance with business objectives while establishing clear accountability throughout the organisation.
- 
+
 ---
  
 ## Scope
- 
 This engagement covers:
- 
 - Governance architecture
 - Stakeholder accountability
 - Committee structures
@@ -32,9 +27,7 @@ This engagement covers:
 ---
  
 ## Findings
- 
 ### Governance Weaknesses
- 
 - Centralised security authority
 - Lack of governance oversight
 - Limited executive participation
@@ -44,36 +37,34 @@ This engagement covers:
 ---
  
 ## Recommendations
- 
 ### Governance Structure
- 
 Implement Board oversight and executive-level governance.
  
 ### Governance Committees
- 
 Establish:
- 
 - Board Risk and Audit Committee
 - Executive Risk Committee
 - Security Governance Committee
  
 ### Accountability
- 
 Adopt enterprise-wide RACI ownership.
 
 ### Escalation
- 
 Implement formal escalation thresholds and reporting structures.
  
 ### Segregation of Duties
- 
 Separate governance, approval, implementation, and assurance functions.
- 
----
- 
-## Conclusion
 
-The implementation of the proposed governance model will significantly improve accountability, governance maturity, risk visibility, and organisational resilience across TechGlobal.
+---
+
+## Governance Transformation Outcome
+Implementation of the proposed governance framework will transition TechGlobal from an informal and IT-centric operating model to a mature governance structure that incorporates Board oversight, executive accountability, cross-functional decision-making, formal escalation processes, and effective segregation of duties.
+
+ 
+The proposed framework aligns cybersecurity governance with business objectives while improving accountability, risk visibility, organisational resilience, and long-term governance maturity.
+ 
+
+
 
 
 
